@@ -3,25 +3,26 @@ Scrum Team GitHub pages (2 points)
 <br>
 Web Project: Project Description, Project Plans/Ideas/Wires, Time box
 <br>
-https://github.com/Ethan-Gravin25/TLDEW/blob/main/README.md
+<a href="https://github.com/Ethan-Gravin25/TLDEW/blob/main/README.md"> Replit Link</a>
 <br>
 Team Roles described, Project Owner or Sponsor described, Scrum Board started
 <br>
-https://github.com/Ethan-Gravin25/TLDEW/blob/main/README.md
+<a href="https://github.com/Ethan-Gravin25/TLDEW/blob/main/README.md"> Replit Link</a>
 <br>
-https://github.com/Ethan-Gravin25/TLDEW/projects/1
+<a href="https://github.com/Ethan-Gravin25/TLDEW/projects/1"> Replit Link</a>
 <br>
 
 Individual GitHub pages (3 points)
 <br>
 GitHub page for Test Prep study, requiring 5.1, 5.2 notes and actions( See "GitHub pages actions" at the bottom of each TPT page on cspcoders (Links to an external site.))
 <br>
-https://ethan-gravin25.github.io/TLDEWEthanG/notes
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/notes"> Replit Link</a>
 <br>
 GitHub page that documents Data Structures project, using code snippets for key learnings, and links to  GitHub for code and Replit for runtime
 <br>
-https://ethan-gravin25.github.io/TLDEWEthanG/datastructures
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Replit Link</a>
 <br>
 GitHub page that documents intended Create Task project for College Board, snippets, and links to Runtime
 <br>
 https://ethan-gravin25.github.io/TLDEWEthanG/createtask
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/createtask"> Replit Link</a>

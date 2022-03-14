@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 # Data Structure
-## <a href="https://github.com/BrianZhang2016/TLDEWEthanG"> Github Link</a>
+## <a href="https://github.com/Ethan-Gravin25/TLDEW"> Github Link</a>
 ## <a href="https://replit.com/@Ethan-Gravin25"> Replit Link</a>
 
 # Code

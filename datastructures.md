@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
 # Data Structure
-## <a href="https://github.com/BrianZhang2016/Brian-Individual"> Github Link</a>
-## <a href="https://replit.com/@BrianZhang2016"> Replit Link</a>
+## <a href="https://github.com/BrianZhang2016/TLDEWEthanG"> Github Link</a>
+## <a href="https://replit.com/@Ethan-Gravin25"> Replit Link</a>
 
 # Code
 ## TT0
@@ -170,8 +170,8 @@ def ship():
   ocean_print()
   # loop control variables
   start = 0  # start at zero
-  distance = 75  # how many times to repeat
-  step = 2  # count by 2
+  distance = 50  # how many times to repeat
+  step = 1  # count by 2
 
   # loop purpose is to animate ship sailing
   for position in range(start, distance, step):

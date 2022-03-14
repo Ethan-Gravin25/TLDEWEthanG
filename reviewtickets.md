@@ -24,5 +24,4 @@ GitHub page that documents Data Structures project, using code snippets for key 
 <br>
 GitHub page that documents intended Create Task project for College Board, snippets, and links to Runtime
 <br>
-https://ethan-gravin25.github.io/TLDEWEthanG/createtask
 <a href="https://ethan-gravin25.github.io/TLDEWEthanG/createtask"> CreateTask</a>

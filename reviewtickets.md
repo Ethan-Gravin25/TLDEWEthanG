@@ -1,6 +1,7 @@
 ## Trimester 3 Week 0 
 <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/1"> Review Ticket Link </a>
 <br>
+<br>
 Scrum Team GitHub pages (2 points)
 <br>
 Web Project: Project Description, Project Plans/Ideas/Wires, Time box

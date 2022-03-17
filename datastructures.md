@@ -2,8 +2,8 @@
 
 # Data Structure
 ## <a href="https://github.com/Ethan-Gravin25/TLDEW"> Github Link</a>
-## <a href="https://replit.com/@Ethan-Gravin25"> Replit Link</a>
 ## <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/blob/main/reviewtickets.md"> Review Ticket</a>
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@Ethan-Gravin25/practice-stuff?embed=true">
 
 # Code
 ## TT0

@@ -1,3 +1,32 @@
+## Trimester 3 Week 1
+<a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/2"> Review Ticket Link </a>
+<br>
+<br>
+Scrum Team GitHub pages (2 points)
+<br>
+Project Owner initial requirements, contact info, and derivative tangible plans
+<br>
+<a href="https://github.com/Ethan-Gravin25/TLDEW/blob/main/README.md"> ReadMe</a>
+<br>
+Requirements and Jobs assigned to each individuals listed on Scrum Board, including at least one in progress task
+<br>
+<a href="https://github.com/Ethan-Gravin25/TLDEW/projects/1"> ScrumBoard</a>
+<br>
+
+Individual GitHub pages (3 points)
+<br>
+InfoDB lists
+<br>
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+<br>
+InfoDB loops
+<br>
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+<br>
+Fibonacci - (For Fibonacci(n)  print complete list 0 - n  and not just the nth term)
+<br>
+<a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+
 ## Trimester 3 Week 0 
 <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/1"> Review Ticket Link </a>
 <br>

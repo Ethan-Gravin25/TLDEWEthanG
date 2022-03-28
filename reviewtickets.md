@@ -1,10 +1,13 @@
 ## Trimester 3 Week 2
 Organize files, directories and menus for the first 3 weeks. 
 <a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+<br>
 Write Factorial function using classes, providing implementation of call.
 <a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+<br>
 Select your own Math function. Write it in Imperative and OOP form. 
 <a href="https://ethan-gravin25.github.io/TLDEWEthanG/datastructures"> Datastructures</a>
+<br>
 
 ## Trimester 3 Week 1
 <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/2"> Review Ticket Link </a>

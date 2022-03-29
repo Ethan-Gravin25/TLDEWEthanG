@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 Notes
 5.1
 

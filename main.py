@@ -1,11 +1,12 @@
 from Week0 import Animation
+from Week0.christmastree import Tree
 from Week1 import infoDB
 from Week2 import math
 
 main_menu = []
 
 w0_list = [["Swap", "Swap.py"], ["Matrix", "Matrix.py"],
-           ["Christmas Tree", "christmastree.py"],
+           ["Christmas Tree", Tree],
            ["Animation", Animation.ship]]
 
 w1_list = [["InfoDB Loops", infoDB.InfoDb_loops],
@@ -51,7 +52,7 @@ def buildMenu(banner, options):
     for key, value in prompts.items():
         print(key, '->', value[0])
 
-    choice = input("Type your choice> ")
+    choice = input("Type your choice: ")
 
     try:
         choice = int(choice)

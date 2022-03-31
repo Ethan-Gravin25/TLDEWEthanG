@@ -1,15 +1,7 @@
-print("Swap")
-ageOne = 21
-ageTwo = 16
-
-print(ageOne,ageTwo)
-
-def swapAge (ageOne, ageTwo):
-    storAge = ageOne
-    ageOne = ageTwo
-    ageTwo = storAge
-    return ageOne, ageTwo
-  
-age1,age2 = swapAge(ageOne, ageTwo)
-
-print(age1,age2)
+def swapNum():
+    num1 = int(input("Input a number "))
+    num2 = int(input("Input a number "))
+    if num1 > num2:
+        print(num2, num1)
+    else:
+        print(num1 ,num2)

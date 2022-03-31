@@ -1,11 +1,13 @@
-from Week0 import Animation
+from Week0 import Animation, swap
 from Week0.christmastree import Tree
+from Week0.swap import swapNum
 from Week1 import infoDB
 from Week2 import math
 
 main_menu = []
 
-w0_list = [["Swap", "Swap.py"], ["Matrix", "Matrix.py"],
+w0_list = [["Swap", swap.swapNum], 
+           ["Matrix", "Matrix.py"],
            ["Christmas Tree", Tree],
            ["Animation", Animation.ship]]
 

@@ -1,3 +1,9 @@
+{% include navigation.html %}
+
+# Notes
+
+{% include notes.html %}
+
 5.5
 Many companies make money on patents, like Qualcomm. Anyone who uses Qualcomms works have to pay royalty, and they aren't allowed to use open source things when making their royalties because it would count as open source. Qualcomm uses BlackDuck to help make sure it doesn't use anything that will have bad effects for the company. Different licenses can allow different things to be done in a project. 
 

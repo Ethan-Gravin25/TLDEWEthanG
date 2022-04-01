@@ -1,3 +1,9 @@
+{% include navigation.html %}
+
+# Notes
+
+{% include notes.html %}
+
 5.3
 There is a lot of biaas in computing, it can be intentional or unintentional. Intentional bias can be used by a company to try to make a product or a site more accessible to a certain age/race. Unintentional bias can be created by a company on accident, like accidentally creating a color scheme thats more appealing to younger children and less appealing towards older adults. 
 

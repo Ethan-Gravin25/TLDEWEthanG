@@ -1,5 +1,9 @@
 {% include navigation.html %}
 
+## Trimester 3 Week 3
+<a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/4"> Review Ticket Link </a>
+<a href="https://youtu.be/DD48iJp_4nY"> Video Link </a>
+
 ## Trimester 3 Week 2
 <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/3"> Review Ticket Link </a>
 <br>

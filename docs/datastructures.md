@@ -3,6 +3,20 @@
 # Data Structure
 ## <a href="https://github.com/Ethan-Gravin25/TLDEW"> Github Link</a>
 ## <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/blob/main/reviewtickets.md"> Review Ticket</a>
+
+## Accounts and Login
+Crud Stuff
+
+Hack 1
+![image](https://user-images.githubusercontent.com/89223558/162492416-822de6b9-4453-4f65-ac78-d01e7740c26e.png)
+![image](https://user-images.githubusercontent.com/89223558/162492371-d59773c8-6662-4949-a681-cd47d9a2d76b.png)
+
+Hack 2
+
+Hack 3
+![image](https://user-images.githubusercontent.com/89223558/162492736-3de91ac8-51c7-4247-9e63-656a6cef6ea5.png)
+
+
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@Ethan-Gravin25/practice-stuff?embed=true">
 
 # Code

@@ -1,3 +1,6 @@
+from flask import Flask, render_template, request, redirect, url_for, session
+from __init__ import app
+
 from Week0 import Animation, swap, matrix
 from Week0.christmastree import Tree
 from Week1 import infoDB
@@ -76,6 +79,10 @@ def buildMenu(banner, options):
 
     buildMenu(banner, options)
 
+@app.route("/")
+def inex():
+    return render_template("index.html")
 
 if __name__ == "__main__":
+    app.run(host="127.0.0.1", port=5000, debug=True)
     menu()

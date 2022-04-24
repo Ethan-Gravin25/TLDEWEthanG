@@ -18,7 +18,7 @@ We will submit a video that is:
 * Less than 30 MB in file size
 * .mp4, .wmv, .avi, or .mov format
 
-Video here:
+Video here: <iframe frameborder="0" width="100%" height="800px" src="https://youtu.be/9HDTqfqr-Ds?embed=true">
 
 ## Written Response
 Response to prompts 3a-3d

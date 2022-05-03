@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-** Proctored MCQ Week 2 Study Plan
+**Proctored MCQ Week 2 Study Plan
 
 Monday
 Work on the create task and finalize the video
@@ -17,7 +17,7 @@ Work on create task and skit
 Friday
 Do the skit in class and study practice tests at home
 
-** Proctored MCQ Week 1 Study Plan
+**Proctored MCQ Week 1 Study Plan
 
 Monday
 Fix up bugs in create task and edit the writing portion

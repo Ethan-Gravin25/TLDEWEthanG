@@ -1,5 +1,8 @@
 {% include navigation.html %}
 
+## Trimester 3 Week 7
+<a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/8"> Review Ticket Link </a>
+
 ## Trimester 3 Week 6
 <a href="https://github.com/Ethan-Gravin25/TLDEWEthanG/issues/7"> Review Ticket Link </a>
 

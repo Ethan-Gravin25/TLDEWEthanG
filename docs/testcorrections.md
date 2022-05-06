@@ -31,3 +31,15 @@ Correction - I wasn't sure which one was right so I had to guess. I know which o
 
 Q34. ![image](https://user-images.githubusercontent.com/89223558/166268215-43de7998-1c6f-4f09-bd48-f562fa8bafd0.png)
 Correction - I didn't know what a heuristic was, so I guessed. I now know what a heuristic is so I won't get those problems wrong. 
+
+
+**Finals Quiz 4 - 47/50
+
+Q11. ![image](https://user-images.githubusercontent.com/89223558/167162142-6b48dc5e-4e00-4674-aecf-dca942b2a13a.png)
+I mixed up certificates and IPs and chose the wrong answer
+
+Q30. ![image](https://user-images.githubusercontent.com/89223558/167162330-2ddc90c8-6234-4017-b052-411db9c54605.png)
+I misread the answer and thought that the answer I picked would be out of the loop whereas it was still within. 
+
+Q44. ![image](https://user-images.githubusercontent.com/89223558/167162442-0cb81d45-8c0a-481d-83ad-af4b150d5d7c.png)
+I had no idea what a rogue access point was but I know now. 
